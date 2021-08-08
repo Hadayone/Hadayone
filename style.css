@@ -1,0 +1,271 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+
+nav {
+    width: 100%;
+    height: 60px;
+    background: #344051;
+}
+
+.logo {
+    color: white;
+    font-size: 28px;
+    line-height: 60px;
+    padding-left: 200px;
+    float: left;
+}
+
+.menu {
+    float: left;
+    padding-left: 232px;
+}
+
+.menu li {
+    float: left;
+    line-height: 60px;
+    color: white;
+    margin-right: 40px;
+    font-size: 19px;
+    text-transform: uppercase;
+}
+
+.main {
+    width: 100%;
+    height: 670px;
+    background: url(../img/ok.jpg) 90% 100%/auto 85% no-repeat, url(../img/fon1.png) center/cover no-repeat;
+}
+
+
+.title__container {
+    float: left;
+    margin: 250px 0px 0px 404px;
+    color: #2c384a;
+    text-align: center;
+}
+
+.title__container h1 {
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.title__container h4 {
+    margin-top: 20px;
+    font-size: 20px;
+    color: #8b919c;
+}
+
+.title__container input {
+    height: 40px;
+    text-align: center;
+    border: 2px solid #6d7682;
+    background: none;
+    border-radius: 30px;
+    color: #6d7682;
+    font-size: 16px;
+    padding: 10px;
+    margin: 0px 10px 0px 0px;
+}
+
+.title__container h2 {
+    color: #263244;
+    margin: -122px 400px 14px 20px;
+    font-size: 29px;
+}
+
+.title__container p {
+    color: #3f4b5e;
+    font-size: 17px;
+    margin: 315px 370px 0px 0px;
+}
+
+.main1 {
+    width: 100%;
+    height: 600px;
+    background: url(../img/bn.png) 660px 180px/130px no-repeat, url(../img/go.png) 625px 225px/200px no-repeat, url(../img/rul.png);
+}
+
+.main2 {
+    width: 100%;
+    height: 100%;
+    background: url(../img/gramofon.png) 1125px 100px/90px no-repeat, url(../img/raketa.png) 825px 113px/75px no-repeat, url(../img/znak.png) 424px 115px/85px no-repeat, url(../img/nout.png) 65px 120px/85px no-repeat, url(../img/bn.png) 640px 60px/130px no-repeat, url(../img/lol.png) no-repeat, center;
+    float: left;
+
+}
+
+.title__container1 h2 {
+    color: #263244;
+    font-size: 30px;
+    text-align: center;
+    margin: 0px 0px 150px 0px;
+
+}
+
+.title__container1 li {
+    color: #cf7600;
+    font-size: 17px;
+    margin: 0px 0px 0px 0px;
+    float: left;
+
+}
+
+.title__container1 p {
+    width: 95px;
+    line-height: 16px;
+    padding-right: 150px;
+    margin: 0px 0px 0px 0px;
+    float: left;
+}
+
+.main3 {
+    width: 100%;
+    height: 100%;
+    background: url(../img/bn.png) 630px 150px/150px no-repeat, url(../img/foto.png) 5px 250px/1550px no-repeat, url(../img/fno.png) no-repeat;
+    float: left
+}
+
+.title__container3 h2 {
+    color: #384354;
+    text-align: center;
+    font-size: 29px;
+    margin: 100px 0px 100px 0px;
+
+}
+
+.title__container3 h2 p {
+    color: #626976;
+    font-size: 17px;
+    margin: 55px 0px 800px 0px;
+}
+
+main4 {
+    width: 100%;
+    height: 100%;
+    background: url(../img/xto.png) no-repeat;
+    float: left
+}
+
+.title__container4 h2 {
+    color: #1c2534;
+    text-align: center;
+    font-size: 27px;
+}
+
+.title__container4 h3 {
+    color: #1c2534;
+    font-size: 25px;
+    margin: 50px 0px 10px 300px;
+}
+
+.title__container4 input {
+    margin: 0px 0px 10px 300px;
+    font-size: 20px;
+    width: 650px;
+    height: 35px
+}
+
+.main5 {
+    width: 100%;
+    height: 100%;
+    background: url(../img/kybok.png) 1025px 290px/70px no-repeat, url(../img/galothka.png) 720px 290px/70px no-repeat, url(../img/skobki.png) 375px 290px/75px no-repeat, url(../img/smayl.png) 50px 290px/60px no-repeat, url(../img/bn.png) 580px 190px/140px no-repeat, url(../img/fonot.png) center no-repeat;
+    float: left
+}
+
+.title__container5 h2 {
+    color: #323e4f;
+    font-size: 26px;
+    margin: 135px 100px 100px 525px;
+}
+
+.title__container5 h3 {
+    color: #323e4f;
+    font-size: 28px;
+    margin: 100px 0px 0px 0px;
+    float: left;
+}
+
+.title__container5 p {
+    color: #323e4f;
+    height: 100px;
+    width: 100px;
+    line-height: 18px;
+    padding-right: 170px;
+    float: left;
+    margin: 100px 0px 0px 15px;
+}
+
+.main6 {
+    width: 100%;
+    height: 100%;
+    background:  url(../img/tothka2.png)  740px 530px/12px no-repeat, url(../img/tothka2.png)  715px 530px/12px no-repeat, url(../img/tothka.png) 690px 530px/12px no-repeat, url(../img/mythik.png) 690px 275px/117px no-repeat, url(../img/bn.png) 695px 175px/100px no-repeat, url(../img/fno.png) ;
+    float: left
+}
+
+.title__container6 h2 {
+    color: #243042;
+    font-size: 30px;
+    margin: 100px 0px 290px 680px;
+    padding: inherit;
+}
+
+.title__container6 p {
+    color: #3d4654;
+    font-size: 17px;
+text-align: center;
+    margin: 0px 0px 0px 100px;
+   
+}
+
+.title__container6 li {
+    color: #243042;
+    font-size: 17px;
+    margin: 10px 0px 100px 585px;
+    
+}
+
+.main7 {
+    width: 100%;
+    height: 100%;
+    background: url(../img/bn.png) 650px 175px/100px no-repeat , url(../img/fnxzkakoy.png) -200px 1px no-repeat;
+    float: left
+}
+.title__container7 h2 {
+    color: #ffffff;
+    font-size: 30px;
+    margin: 100px 0px 650px 600px;
+}
+
+.title__container7 h6{
+    color: #e9e9ea;
+    font-size: 17px;
+    margin: 100px 0px 0px 500px;
+    height: 0px;
+}
+.title__container7 li{
+    color: #ffffff;
+    font-size: 17px;
+    margin: 0px 0px 1px 0px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
